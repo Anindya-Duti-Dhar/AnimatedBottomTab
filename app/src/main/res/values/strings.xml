@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaterialBottomTab</string>
+
+    <string name="chats_toolbar">FnF Chats</string>
+    <string name="contacts_toolbar">FnF Contacts</string>
+    <string name="profile_toolbar">FnF Profile</string>
+</resources>
